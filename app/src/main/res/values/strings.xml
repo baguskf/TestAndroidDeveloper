@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mandatory</string>
+    <string name="nanti_textnya_disini">Nanti Textnya disini</string>
+    <string name="go_service">Go Service</string>
+</resources>
